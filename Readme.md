@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dmccartyj
 - 👀 I’m interested in software development and database management.
-- 🌱 I’m currently learning Full Stack Java development from Per Scholas, Seattle
+- 🌱 I’m currently learning Full Stack Java development.
 - 💞️ I’m looking to collaborate on projects involving music and gaming.
 - 📫 How to reach me:
 Email: Dmccartyjohnson@gmail.com
