@@ -5,7 +5,6 @@
 - 📫 How to reach me:
 Email: Dmccartyjohnson@gmail.com
 Linkedin: https://www.linkedin.com/in/david-johnson-4667a046/
-Twitter: https://twitter.com/DavidMcjohnson
 
 <!---
 Dmccartyj/Dmccartyj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
